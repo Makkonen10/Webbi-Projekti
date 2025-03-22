@@ -3,4 +3,5 @@ TUNTIKIRJAUS
 
 | PVM       | AIKA      | SUUNNITELMA                    | TULOS                  |
 |-----------|-----------|--------------------------------|------------------------|
-| 3.22.2025 | 12:00 - 13:30          | Projektin suunnitelma kasaan   |                        |
+| 03.22.2025| 12:00 - 13:30          | Projektin suunnitelma kasaan   |  Suunnitelma edistyi hyvin! 
+| 03.22.2025|
