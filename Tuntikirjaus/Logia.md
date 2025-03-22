@@ -17,4 +17,4 @@ TUNTIKIRJAUS
 
 
 
-Työtunnit yhteensä: 4h 15min
+Työtunnit yhteensä: 4h 45min
