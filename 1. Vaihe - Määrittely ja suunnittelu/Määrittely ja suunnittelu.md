@@ -28,4 +28,25 @@
 
 
 
-# LAADULLINEN ARVIOINTI
+# SUUNNITELMAN JATKOA
+
+## 1. Käyttäjäpersoonat
+- Stereotyyppisesti miettien mitsubishi fanisivu on kaikille "harrastajille"
+- Ei tarkkemmin luokitella juuri, et kenelle vaan kaikille
+- Osioita heille, jotka kokevat tarvitsevansa jotain enemmän (vanhat autot jne, "amis -tuning"?)
+
+## 2. Käyttötapaukset ja käyttötilanteet
+- Sivu suunnitellaan mitsubishin käyttäjille, omistajille tai vain kiinnostuneille
+- Sivu tulee tarjoamaan eri tasoista informaatiota, riippuen käyttäjän tarpeista
+- Ohjeita korjaamiseen, kirjoja, apua foorumi????
+- Historia, kuvat ja foorumi yleisesti?
+
+## 3. Käyttöliittymän prototyypit
+- Figmalla hahmoteltu nettisivu...
+- Löytyy kansiosta joku................................................
+
+## 4. Tekninen suunnittelu
+HTML, java, css 
+
+## 5. Hallinta ja testaus
+
