@@ -1,4 +1,4 @@
-Käyttötapaukset
+KÄYTTÖTAPAUKSET
 
 1. Etusivu
 2. Historia
