@@ -46,7 +46,11 @@
 - Löytyy kansiosta joku................................................
 
 ## 4. Tekninen suunnittelu
-HTML, java, css 
+- HTML, java, css
+- Virtuaalikone
+- Nginx
+- Javascript
+- SQL
+- NODE ja/tai react (Jos aikaa/intoa) 
 
-## 5. Hallinta ja testaus
 
